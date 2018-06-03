@@ -52,5 +52,4 @@ class TestEmployee(unittest.TestCase):
             self.assertEqual(schedule, 'Bad response')
             
 
-if __name__ == '__main__':
-    unittest.main()
+if __name__ == '__main__': unittest.main()
